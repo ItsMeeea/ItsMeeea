@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ItsMeeea&show_icons=true&count_private=true&hide_title=true&theme=panda" width="57%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeeea&layout=compact&theme=panda" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeeea&layout=compact&theme=panda" width="43%" />
 </div>
 <br>
 
