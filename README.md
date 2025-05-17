@@ -1,31 +1,30 @@
 ### GitHub Stats
-
-<div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap;">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=ItsMeeea&show_icons=true&count_private=true&hide_title=true&theme=panda" width="56%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeeea&layout=compact&theme=panda" width="42%" />
-</div>
-<br>
+</p>
 
 ### Languages
-<div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap">
-    <img src="https://skillicons.dev/icons?i=c,css,cpp,go,html,java,kotlin,latex" />
-</div>
-<br>
-<div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; gap: 8px;">
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,go,html,java,kotlin,latex" />
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=md,mysql" />
     <img src="https://www.nasm.us/images/nasm.png" width=48 height=48>
     <img src="https://skillicons.dev/icons?i=python,r" />
     <img src="https://avatars.githubusercontent.com/u/89536631?s=280&v=4" width=48 height=48/>
     <img src="https://skillicons.dev/icons?i=ruby" />
-</div>
-<br>
+</p>
 
 ### Software
- <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap">
-    <img src="https://skillicons.dev/icons?i=arduino,debian,git,github,kali,linux,matlab,mysql" />
-</div>
-<br>
-<div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap">
-    <img src="https://skillicons.dev/icons?i=notion,obsidian,raspberrypi,ubuntu,visualstudio,vscode,windows" />
-</div>
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,debian,git,github,kali,linux,matlab,mysql,notion" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=obsidian,raspberrypi" />
+  <img src="SIFT_logo.png" width="48px" height="48px" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,visualstudio,vscode" />
+  <img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6301.png" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+</p>
