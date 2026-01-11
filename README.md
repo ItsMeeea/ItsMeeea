@@ -1,9 +1,3 @@
-## GitHub Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ItsMeeea&show_icons=true&count_private=true&hide_title=true&theme=panda" width="56%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeeea&layout=compact&theme=panda" width="42%" />
-</p>
-
 ## Languages
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,go,html,java,kotlin,latex" />
